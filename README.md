@@ -98,6 +98,6 @@ Estou em transição de carreira e me tornei apaixonada por tecnologia! Atuo com
 ### 📊 Estatísticas
 
 <p align="left">
-    <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=betarbadaro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betarbadaro&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9"/>
+    <img alt="Stats" height="200" src="https://raw.githubusercontent.com/betarbadaro/betarbadaro/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+    <img alt="Top Languages by Commit" height="200" src="https://raw.githubusercontent.com/betarbadaro/betarbadaro/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 </p>
